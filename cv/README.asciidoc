@@ -1,0 +1,85 @@
+= Paulo Nascimento: Consultant Developer | Full Stack Developer
+:description: Professional resumé
+
+== About
+
+I am a full-stack web developer with 10 years of experience, roughly half of which has been in consulting. I have honed my ability to deliver high-level solutions to clients across various industry sectors. Specializing in back-end and data engineering, I have delivered projects with a focus on software quality, utilizing agile methodologies, TDD, and CI/CD. Naturally curious, adept at teamwork, and possessing excellent interpersonal and communication skills, I am confident that my expertise and experience make me a strong candidate for any full-stack web developer position.
+
+== Experience
+
+=== *Thoughtworks* — Brazil, Consultant Developer
+October 2020 – June 2023
+
+I had a transformative experience in consulting, propelling my technical and professional growth. Focusing on development with software quality and agile methodologies, applying TDD, Pair Programming, and Clean Code. I worked on various projects in diverse sectors such as real estate, financial services, cryptocurrencies, oil and gas. I highlight my involvement in projects featuring CI/CD, AWS, Azure, Node, React, Angular, Python, GremlinDB, PostgreSQL and data engineering, contributing to a challenging and enriching environment that shaped my professional journey and significantly expanded my skill set.
+
+=== *Accenture* — Brazil, Consultant Developer
+August 2019 – October 2020
+
+My first experience in consulting involved working with international companies such as Bayer and Monsanto. I integrated agile teams where I grew as a developer, using Azure, Docker, Node, React, Express.js, Java, Kotlin, Kafka, PostgreSQL, SQL Server, and Oracle. Additionally, this marked my first exposure to remote work in English.
+
+=== *Zeropay* — Brazil, Full Stack Developer
+August 2017 – July 2019
+
+Within the Porto Digital ecosystem in Recife, I actively participated in startup incubation and acceleration programs, enhancing entrepreneurial and innovative skills. Using AWS, React, Node, and MongoDB, I integrated company products with insurers' APIs and web services, overcoming integration challenges through the development of crawlers and web scrapers.
+
+=== *Viitra* — Brazil, Full Stack Developer
+October 2013 – June 2017
+
+I collaborated with teams of varying sizes on educational projects involving integrations with products and data from UFPE and the Center for Informatics. My practical introduction to agile methodologies took place in this context. I enhanced my skills in technologies such as Node, Express.js, Angular, PHP, MongoDB, MySQL, and PostgreSQL.
+
+=== *FF Inform* — Brazil, Full Stack Developer & Support Analyst
+January 2013 – October 2013
+
+My debut in customer service was also where I could showcase my development skills. I proposed and implemented an effective CRM solution using PHP, Slim, and MySQL.
+
+== Competencies
+
+*Development skills*
+
+TDD, BDD, Pair programming, Clean code, Testable Solutions, Decentralized architecture, API and service design, Responsive design, Getting code into production, Technical decision making
+
+*Methodologies*
+
+DevOps, Agile, Scrum, Kanban, Lean Inception
+
+*Programming languages*
+
+Python, JavaScript, TypeScript, PHP, Bash, HTML, CSS, Java, C#, C
+
+*Frameworks and platforms*
+
+Node, React, Angular, Express.js, Django, Flask, FastAPI, Docker, Kafka, Laravel, Lumen, Slim
+
+*Databases*
+
+PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, GremlinDB, Redis
+
+*Cloud and infrastructure*
+
+AWS, Azure, DigitalOcean, Heroku
+
+*Other tools*
+
+Git, Jest, Puppeteer, Pytest, CircleCI, Jenkins, GitHub, Bitbucket, GitLab, Jira, Trello
+
+
+== Language
+
+*Portuguese* — Native +
+*English* — Fluent (CEFR C1+)
+
+== Education
+
+*Federal Rural University Of Pernambuco* +
+Computer Science | 2014–2017
+
+== Training
+
+*Overdrives (SER Educacional)* +
+Startup Acceleration Program | 2019
+
+*Jump Brasil (Porto Digital)* +
+Startup Incubation Program | 2018
+
+*Microsoft Innovation Center (ETEPAM)* +
+Microsoft Students to Business | 2012

@@ -1,0 +1,86 @@
+= Paulo Nascimento: Desenvolvedor Consultor | Desenvolvedor Full Stack
+:description: Currículo profissional
+
+== Sobre
+
+Sou um desenvolvedor web full-stack com 10 anos de mercado, cerca de metade em consultoria, aprimorei minha capacidade de fornecer soluções de alto nível para clientes em vários setores da indústria. Ao me especializar em back-end e engenharia de dados, entreguei trabalhos com foco em qualidade de software utilizando, metodologias ágeis, TDD e CI/CD. Sendo naturalmente curioso, sei trabalhar em equipe e possuo excelentes habilidades interpessoais e de comunicação, estou confiante de que a minha expertise e experiência me tornam um forte candidato para qualquer posição de desenvolvedor web full-stack.
+
+== Experiência
+
+=== *Thoughtworks* — Brasil, Desenvolvedor Consultor
+Outubro 2020 – Junho 2023
+
+Tive uma experiência transformadora na consultoria, impulsionando meu crescimento técnico e profissional. Foquei no desenvolvimento com qualidade de software e metodologias ágeis, aplicando TDD, Pair Programming e Clean Code. Atuei em diversos projetos em setores variados, como real estate, serviços financeiros, criptomoedas, petróleo e gás. Destaco minha participação em projetos de com CI/CD, AWS, Azure, Node, React, Angular, Python, GremlinDB, PostgreSQL e engenharia de dados contribuindo para um ambiente desafiador e enriquecedor que moldou minha trajetória profissional e ampliou significativamente meu conjunto de habilidades.
+
+=== *Accenture* — Brasil, Desenvolvedor Consultor
+Agosto 2019 – Outubro 2020
+
+Minha primeira experiência com consultoria, trabalhei com empresas internacionais como Bayer e Monsanto. Integrei times ágeis onde cresci como desenvolvedor, utilizando Azure, Docker, Node, React, Express.js, Java, Kotlin, Kafka, PostgreSQL, SQL Server e Oracle. Além disso, tive meu primeiro contato com trabalhos remotos em inglês.
+
+=== *Zeropay* — Brasil, Desenvolvedor Full Stack
+Agosto 2017 – Julho 2019
+
+Dentro do ecossistema do Porto Digital de Recife, participei ativamente de programas de incubação e aceleração de startups, aprimorando habilidades de empreendimento e inovação. Utilizando AWS, React, Node e MongoDB, integrei produtos da empresa com APIs e serviços web de seguradoras, superando desafios de integração por meio do desenvolvimento de crawlers e web scrappers.
+
+=== *Viitra* — Brasil, Desenvolvedor Full Stack
+Outubro 2013 – Junho 2017
+
+Colaborei com equipes de diferentes tamanhos em projetos educacionais com integrações a produtos e dados da UFPE e do Centro de Informática. Minha introdução prática às metodologias ágeis ocorreu nesse contexto. Aprimorei habilidades em tecnologias como Node, Express.js, Angular, PHP, MongoDB, MySQL e PostgreSQL.
+
+=== *FF Inform* — Brasil, Desenvolvedor Full Stack & Analista de Suporte
+Janeiro 2013 – Outubro 2013
+
+Minha estreia no atendimento ao cliente foi também onde pude destacar minhas habilidades de desenvolvimento. Propus e implementei uma solução eficaz de CRM, utilizando PHP, Slim e MySQL
+
+
+== Competências
+
+*Habilidades de desenvolvimento*
+
+TDD, BDD, Pair programming, Clean code, Testable Solutions, Decentralized architecture, API and service design, Responsive design, Getting code into production, Technical decision making
+
+*Metodologias*
+
+DevOps, Agile, Scrum, Kanban, Lean Inception
+
+*Linguagens de programação*
+
+Python, JavaScript, TypeScript, PHP, Bash, HTML, CSS, Java, C#, C
+
+*Frameworks e plataformas*
+
+Node, React, Angular, Express.js, Django, Flask, FastAPI, Docker, Kafka, Laravel, Lumen, Slim
+
+*Banco de dados*
+
+PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, GremlinDB, Redis
+
+*Cloud e infraestrutura*
+
+AWS, Azure, DigitalOcean, Heroku
+
+*Outras ferramentas*
+
+Git, Jest, Puppeteer, Pytest, CircleCI, Jenkins, GitHub, Bitbucket, GitLab, Jira, Trello
+
+
+== Idioma
+
+*Português* — Nativo +
+*Inglês* — Fluente (CEFR C1+)
+
+== Educação
+
+*Universidade Federal Rural de Pernambuco* +
+Ciência da Computação | 2014–2017
+
+== Treinamentos
+
+*Overdrives (SER Educacional)* +
+Programa de Aceleração de Startups | 2019
+
+*Jump Brasil (Porto Digital)* +
+Programa de Incubação de Startups | 2018
+
+*Microsoft Innovation Center (ETEPAM)* +
+Microsoft Students to Business | 2012
