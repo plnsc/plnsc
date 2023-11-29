@@ -5,4 +5,4 @@
 🌎 Reach me out in [LinkedIn](https://www.linkedin.com/in/pnasc/) <br>
 😄 Pronouns: he/him<br>
 
-🚧 **Note**: I used to be shy about posting my own code in here, but that's changing, stay tunned!
+🚧 **Note**: I used to be shy about pushing my own code to public, but that's changing. Stay tunned!
